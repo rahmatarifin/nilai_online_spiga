@@ -52,7 +52,7 @@ if($_SESSION['domain']=='guru'){
             
           
 			<!--  start message-yellow -->
-            
+            <!--
             <div id="message-yellow">
             <table border="0" width="100%" cellpadding="0" cellspacing="0">
             <tr>
@@ -61,7 +61,7 @@ if($_SESSION['domain']=='guru'){
             </tr>
             </table>
             </div>
-            
+            -->
             <!--  end message-yellow -->
             
  	        <table border="0" width="100%" cellpadding="0" cellspacing="0">
